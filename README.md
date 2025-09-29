@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Lakindu 👋
 
+* 👀 I’m a prospective PhD student looking for oppurtunities in Canada and Australia.
+* I'm currently interning at [XLANG Lab](https://xlang.ai/) with [Tao Yu](https://taoyds.github.io/).
 <!--
 **Lakindu2003/Lakindu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
