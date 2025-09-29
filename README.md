@@ -1,12 +1,10 @@
 ## Hi there, I'm Lakindu 👋
 
-* 👀 I’m a prospective PhD student looking for oppurtunities in Canada and Australia.
-* I'm currently interning at [XLANG Lab](https://xlang.ai/) with [Tao Yu](https://taoyds.github.io/).
+* 👀 I’m a prospective PhD student looking for opportunities in Canada and Australia starting in Fall 2026.
+* 💼 I'm currently interning at [XLANG Lab](https://xlang.ai/) with [Tao Yu](https://taoyds.github.io/) working on scaling the Vision Language Action (VLA) Model training dataset.
+* 📫 Feel free to reach out to me via [lakindujay@gmail.com](mailto:lakindujay@gmail.com). I'd be more than happy to have a chat :D
 <!--
 **Lakindu2003/Lakindu2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
